@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:"/tramites/_next/static/chunks/1k-4w-4g6611o.js"
+3:"/tramites/_next/static/chunks/19m-_er8-mwr-.js"
+4:"/tramites/_next/static/chunks/3ywi4neix-dql.js"
+5:I[79520,["$2","$3","$4"],""]
+6:"SCRIPT_TEMA_INICIAL"
+7:I[18403,["$2","$3","$4"],"$6"]
+8:I[44636,["$2","$3","$4"],"Proveedores"]
+9:"$Sreact.suspense"
+a:I[14574,["$2","$3","$4"],"LogoMen"]
+b:I[72900,["$2","$3","$4"],"TableroProvider"]
+c:I[32655,["$2","$3","$4"],"Cascaron"]
+d:I[39756,["$2","$3","$4"],"default"]
+e:I[37457,["$2","$3","$4"],"default"]
+:HL["/tramites/_next/static/chunks/02a3_4a2fh8uz.css","style"]
+:HL["/tramites/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
+:HL["/tramites/api/v1/tramites/cubo.json","fetch",{"crossOrigin":"anonymous"}]
+12:X
+16:X
+16:C
+17:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L18","p":"$@19","v":null,"s":"$12"}}]]
+13:[["children",{"s":"buzon-de-voz","h":96,"d":{"r":"$L14","p":"$@15","v":"$16","s":"$12"},"c":"$Q17"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tramites/_next/static/chunks/02a3_4a2fh8uz.css","precedence":"next"}],["$","script","script-0",{"src":"/tramites/_next/static/chunks/1k-4w-4g6611o.js","async":true}],["$","script","script-1",{"src":"/tramites/_next/static/chunks/19m-_er8-mwr-.js","async":true}],["$","script","script-2",{"src":"/tramites/_next/static/chunks/3ywi4neix-dql.js","async":true}]],["$","html",null,{"lang":"es","className":"czr2iW_variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L5",null,{"id":"tema-inicial","strategy":"beforeInteractive","children":"$7"}],["$","link",null,{"rel":"preload","as":"fetch","crossOrigin":"anonymous","href":"/tramites/api/v1/dimensiones.json"}],["$","link",null,{"rel":"preload","as":"fetch","crossOrigin":"anonymous","href":"/tramites/api/v1/tramites/cubo.json"}]]}],["$","body",null,{"className":"min-h-full bg-background font-sans text-foreground","children":["$","$L8",null,{"children":["$","$9",null,{"fallback":["$","div",null,{"className":"p-3 md:flex md:min-h-screen md:items-center md:justify-center","aria-busy":"true","aria-label":"Cargando el informe","children":["$","div",null,{"className":"marco flex flex-col gap-3","children":[["$","div",null,{"className":"grid shrink-0 grid-cols-1 items-center gap-2 overflow-hidden rounded-2xl bg-gradient-to-r from-[#62040a] via-[#d90816] to-[#35034f] px-4 py-2.5 text-white md:grid-cols-[1fr_auto_1fr]","children":["$","h1",null,{"className":"text-center text-base font-semibold leading-tight md:col-start-2 lg:text-lg xl:text-xl","children":"Informe de Trámites - Ministerio de Educación Nacional"}]}],["$","div",null,{"className":"flex min-h-0 flex-1 flex-col gap-3 md:flex-row","children":[["$","aside",null,{"className":"hidden w-full shrink-0 flex-col gap-3 rounded-2xl border border-papel-200 bg-card p-3 md:flex md:w-72","aria-hidden":"true","children":[["$","div",null,{"className":"flex justify-center","children":["$","$La",null,{"alto":64}]}],["$","div",null,{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-56"}],["$","div",null,{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-64"}]]}],["$","main",null,{"className":"flex min-h-0 min-w-0 flex-1 flex-col gap-3","children":[["$","div",null,{"className":"px-1","children":[["$","div",null,{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-6 w-40"}],["$","div",null,{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 mt-1.5 h-3 w-2/3"}]]}],["$","div",null,{"className":"grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-5","children":[["$","div","0",{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-[116px] rounded-2xl bg-card/70"}],["$","div","1",{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-[116px] rounded-2xl bg-card/70"}],["$","div","2",{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-[116px] rounded-2xl bg-card/70"}],["$","div","3",{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-[116px] rounded-2xl bg-card/70"}],["$","div","4",{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-[116px] rounded-2xl bg-card/70"}]]}],["$","div",null,{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 h-8 w-1/2 rounded-full bg-card/70"}],["$","div",null,{"className":"motion-safe:animate-pulse rounded-xl bg-papel-100 min-h-[260px] flex-1 rounded-2xl bg-card/70"}]]}]]}]]}]}],"children":["$","$Lb",null,{"children":["$","$Lc",null,{"children":["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$Lf","$L10"]}]}]],[]]}]}]}]}]}]}]]}]]}],"p":"$@11","v":null,"s":"$12"},"c":"$Q13"},"h":{"r":"$L1a","p":"$@1b","v":null,"s":"$12"}},"a":"$@1c","u":"$@1d","b":"ch9Gwdj4sno7Ftc8XFWJq"}
+1e:"/tramites/_next/static/chunks/3vpsnxg9a7icp.js"
+1f:"/tramites/_next/static/chunks/38v2n_2bkcill.js"
+20:I[32102,["$2","$3","$4","$1e","$1f"],"PaginaCanal"]
+21:I[97367,["$2","$3","$4"],"OutletBoundary"]
+23:"ViewportBoundary"
+24:I[97367,["$2","$3","$4"],"$23"]
+25:"MetadataBoundary"
+26:I[97367,["$2","$3","$4"],"$25"]
+27:I[27201,["$2","$3","$4"],"IconMark"]
+f:["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}]
+10:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+14:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}]
+18:["$","$1","c",{"children":[["$","$L20",null,{"ruta":"/buzon-de-voz/"}],[["$","script","script-0",{"src":"/tramites/_next/static/chunks/3vpsnxg9a7icp.js","async":true}],["$","script","script-1",{"src":"/tramites/_next/static/chunks/38v2n_2bkcill.js","async":true}]],["$","$L21",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}]
+1a:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$9",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Buzón de Voz · Informe de Trámites"}],["$","meta","1",{"name":"description","content":"Peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones del Ministerio de Educación Nacional: oportunidad de respuesta por mes de vencimiento, dependencia, grupo y tipo de requerimiento."}],["$","link","2",{"rel":"icon","href":"/tramites/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L27","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+22:null
+1d:true
+12:300
+12:C
+1c:0
+15:"$undefined"
+1b:"$undefined"
+19:"$undefined"
+11:"$undefined"

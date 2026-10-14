@@ -1,0 +1,6 @@
+:HL["/tramites/_next/static/chunks/02a3_4a2fh8uz.css","style"]
+:HL["/tramites/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
+:HL["/tramites/api/v1/tramites/cubo.json","fetch",{"crossOrigin":"anonymous"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"ch9Gwdj4sno7Ftc8XFWJq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
