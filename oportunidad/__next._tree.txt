@@ -4,4 +4,4 @@
 :HL["/tramites/api/v1/tramites/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"oportunidad","h":96,"c":"$Q2"}]]
-0:{"b":"b8WXLpmUbn7Ed6wxWLtjI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"tVM1oE5iVLMZaCQa-GNG6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
