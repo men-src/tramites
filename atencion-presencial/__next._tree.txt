@@ -1,7 +1,7 @@
-:HL["/tramites/_next/static/chunks/0f4_4sisne3ri.css","style"]
+:HL["/tramites/_next/static/chunks/3f-bbnicydswt.css","style"]
 :HL["/tramites/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tramites/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/tramites/api/v1/tramites/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"atencion-presencial","h":96,"c":"$Q2"}]]
-0:{"b":"cJYO-4a0tSZWOaQdd9NxM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"fWSP6UeDk2WiJTIB_dNAB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
