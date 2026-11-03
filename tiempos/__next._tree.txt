@@ -1,7 +1,7 @@
-:HL["/tramites/_next/static/chunks/23hq5ybdj6fqp.css","style"]
+:HL["/tramites/_next/static/chunks/2uubn5u9y18e_.css","style"]
 :HL["/tramites/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tramites/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/tramites/api/v1/tramites/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":"tiempos","h":96,"c":"$Q2"}]]
-0:{"b":"YLzh2I0KPB8cyphibARxZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+1:[["children",{"s":"tiempos","h":64,"c":"$Q2"}]]
+0:{"b":"yKUKs6a2qVzY7z7rpMCv9","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
