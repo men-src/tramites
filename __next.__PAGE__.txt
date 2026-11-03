@@ -1,6 +1,6 @@
 2:"$Sreact.fragment"
 3:"/tramites/_next/static/chunks/28tpv5vm_mmq5.js"
-4:"/tramites/_next/static/chunks/13ku79yr7pv6p.js"
+4:"/tramites/_next/static/chunks/129978i8bgcoz.js"
 5:"/tramites/_next/static/chunks/3brht242roqdz.js"
 6:"/tramites/_next/static/chunks/0ms8o4h8d1lf2.js"
 7:"/tramites/_next/static/chunks/3v9hrg10qk6oa.js"
@@ -18,7 +18,7 @@ e:"$Sreact.suspense"
 16:I[27201,["$3","$4","$5"],"IconMark"]
 11:X
 1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[["$","$Lc",null,{}],[["$","script","script-0",{"src":"/tramites/_next/static/chunks/0ms8o4h8d1lf2.js","async":true}],["$","script","script-1",{"src":"/tramites/_next/static/chunks/3v9hrg10qk6oa.js","async":true}],["$","script","script-2",{"src":"/tramites/_next/static/chunks/0sjtjorfa4g2j.js","async":true}],["$","script","script-3",{"src":"/tramites/_next/static/chunks/1ku97nmya4xpq.js","async":true}],["$","script","script-4",{"src":"/tramites/_next/static/chunks/2s9-hpbg3ait8.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$11"}}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Informe de Trámites"}],["$","meta","1",{"name":"description","content":"Peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones del Ministerio de Educación Nacional: oportunidad de respuesta por mes de vencimiento, dependencia, grupo y tipo de requerimiento."}],["$","link","2",{"rel":"icon","href":"/tramites/favicon.ico?favicon.2vxdhhluh43_c.ico","sizes":"64x64","type":"image/x-icon"}],["$","$L16","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$11"}},"a":"$@18","u":"$@19","b":"yKUKs6a2qVzY7z7rpMCv9"}
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Informe de Trámites"}],["$","meta","1",{"name":"description","content":"Peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones del Ministerio de Educación Nacional: oportunidad de respuesta por mes de vencimiento, dependencia, grupo y tipo de requerimiento."}],["$","link","2",{"rel":"icon","href":"/tramites/favicon.ico?favicon.2vxdhhluh43_c.ico","sizes":"64x64","type":"image/x-icon"}],["$","$L16","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$11"}},"a":"$@18","u":"$@19","b":"DmFHRbBRgv1RgVHyIfK5o"}
 f:null
 19:true
 11:300
