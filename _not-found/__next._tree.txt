@@ -1,6 +1,6 @@
-:HL["/tramites/_next/static/chunks/3ijkzc0t8ux_m.css","style"]
+:HL["/tramites/_next/static/chunks/0bslh7_8aaslz.css","style"]
 :HL["/tramites/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/tramites/api/v1/tramites/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"0s74criK7HLhhMRSCl5Dw","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"ekUAxevaxRcPdyO7Vdva2","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
