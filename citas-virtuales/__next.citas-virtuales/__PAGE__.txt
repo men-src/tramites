@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:"/tramites/_next/static/chunks/2b-udmfnak82r.js"
+4:"/tramites/_next/static/chunks/0rggl7ufrdl_u.js"
+5:"/tramites/_next/static/chunks/2kecmwtb2dubg.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:"/tramites/_next/static/chunks/178yte9kb-y8z.js"
+d:"PaginaNoDisponible"
+e:I[37776,["$3","$4","$5","$c"],"$d"]
+f:I[97367,["$3","$4","$5"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4","$5"],"$15"]
+17:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$Le",null,{"titulo":"Citas Virtuales"}],[["$","script","script-0",{"src":"/tramites/_next/static/chunks/178yte9kb-y8z.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$a"}}]]
+1:[["children",{"s":"citas-virtuales","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Citas Virtuales · Informe de Trámites"}],["$","meta","1",{"name":"description","content":"Peticiones, quejas, reclamos, sugerencias, denuncias y felicitaciones del Ministerio de Educación Nacional: oportunidad de respuesta por mes de vencimiento, dependencia, grupo y tipo de requerimiento."}],["$","link","2",{"rel":"icon","href":"/tramites/favicon.ico?favicon.2vxdhhluh43_c.ico","sizes":"64x64","type":"image/x-icon"}],["$","$L17","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$a"}},"a":"$@19","u":"$@1a","b":"N5wdbGPieArpuZCtgkn3i"}
+11:null
+1a:true
+a:300
+a:C
+19:0
+8:"$undefined"
+18:"$undefined"
+12:"$undefined"
